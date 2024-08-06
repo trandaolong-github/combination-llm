@@ -1,0 +1,3 @@
+I am Long
+I am a software engineer with 8 years of experience
+My tech stack is Python, C++. Database are mysql, Cassandra, Elasticsearch, Redis
